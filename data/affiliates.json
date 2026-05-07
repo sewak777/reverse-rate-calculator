@@ -1,0 +1,27 @@
+{
+  "web-design": [
+    { "name": "Bonsai", "url": "https://www.hellobonsai.com", "blurb": "Contracts, invoicing, and proposals in one place" },
+    { "name": "Figma", "url": "https://www.figma.com", "blurb": "Design and prototype — free for solo use" },
+    { "name": "Wave", "url": "https://www.waveapps.com", "blurb": "Free invoicing and accounting" }
+  ],
+  "web-development": [
+    { "name": "Toggl Track", "url": "https://toggl.com/track", "blurb": "Time tracking that stays out of your way" },
+    { "name": "Bonsai", "url": "https://www.hellobonsai.com", "blurb": "Contracts, invoicing, and proposals in one place" },
+    { "name": "Vercel", "url": "https://vercel.com", "blurb": "Ship client projects with zero DevOps" }
+  ],
+  "copywriting": [
+    { "name": "Bonsai", "url": "https://www.hellobonsai.com", "blurb": "Contracts, invoicing, and proposals in one place" },
+    { "name": "Wave", "url": "https://www.waveapps.com", "blurb": "Free invoicing and accounting" },
+    { "name": "Collective", "url": "https://www.collective.com", "blurb": "Accountant and tax filing for solopreneurs" }
+  ],
+  "ai-ml-consulting": [
+    { "name": "Bonsai", "url": "https://www.hellobonsai.com", "blurb": "Contracts, invoicing, and proposals in one place" },
+    { "name": "Toggl Track", "url": "https://toggl.com/track", "blurb": "Time tracking that stays out of your way" },
+    { "name": "Stripe", "url": "https://stripe.com", "blurb": "Accept payments and send invoices globally" }
+  ],
+  "_default": [
+    { "name": "Bonsai", "url": "https://www.hellobonsai.com", "blurb": "Contracts, invoicing, and proposals in one place" },
+    { "name": "Wave", "url": "https://www.waveapps.com", "blurb": "Free invoicing and accounting" },
+    { "name": "Stripe", "url": "https://stripe.com", "blurb": "Accept payments and send invoices globally" }
+  ]
+}
